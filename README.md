@@ -9,7 +9,7 @@ npm install
 ```
 
 Instalara todas las dependecias necesarias para la ejecución del proyecto.
-Para ejecutar la api ejecuta el comando:
+Para inicializar la api ejecuta el comando:
 
 ```
 node app
